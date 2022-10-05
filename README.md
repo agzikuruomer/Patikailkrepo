@@ -1,11 +1,13 @@
 # Patikailkrepo
 [Patika](www.patika.dev) Front-End Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![](ilkrepodeneme.jpg)
+![](C:/Users/agzik/Patikailkrepo/Patikailkrepo/ilkrepodeneme.jpg)
 # Installation
 ```git clone https://github.com/agzikuruomer/Patikailkrepo.git```
 # Usage
-*Projeyi cloneladıktan sonra Visual Studio Code programında açıyoruz.
-*Linux için:
+Projeyi cloneladıktan sonra Visual Studio Code programında açıyoruz.
+
+Linux için:
+
  `cd Patikailkrepo`
 `code .`
 # Contributing
